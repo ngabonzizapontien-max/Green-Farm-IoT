@@ -1,123 +1,171 @@
 # 🌱 GreenFarm IoT
-### Système Intelligent d'Irrigation Solaire pour une Agriculture Durable au Burundi
+### Smart Solar Irrigation System for Sustainable Agriculture in Burundi
 
-![Project Status](https://img.shields.io/badge/Status-En%20Développement-green)
-![Framework](https://img.shields.io/badge/Cadre-Durabilité%20%26%20Technologies%20Vertes-brightgreen)
+![Project Status](https://img.shields.io/badge/Status-In%20Development-green)
+![Framework](https://img.shields.io/badge/Framework-Sustainability%20%26%20Green%20Tech-brightgreen)
 ![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20IoT%20Sensors-blue)
-![Energy](https://img.shields.io/badge/Energy-Solaire-yellow)
+![Energy](https://img.shields.io/badge/Energy-Solar-yellow)
 
+---
 
-## 📌 À propos du projet
+## 🎥 Project Video Presentation
 
-**GreenFarm IoT** est une solution innovante de technologie verte conçue pour améliorer
-la productivité agricole au Burundi grâce à l'automatisation intelligente de l'irrigation.
+[![GreenFarm IoT - Presentation](https://img.youtube.com/vi/OpTdYJHNnQs/maxresdefault.jpg)](https://youtu.be/OpTdYJHNnQs?si=3t98wgYyqurPFotI)
 
-Le système utilise des **capteurs IoT alimentés par énergie solaire** pour surveiller en
-temps réel l'humidité du sol, la température et la luminosité. Les données sont analysées
-automatiquement par un microcontrôleur qui active ou désactive l'irrigation selon les
-besoins réels des cultures. Les agriculteurs peuvent suivre leurs exploitations à distance
-via une **plateforme numérique accessible sur smartphone**.
+> 👆 Click the image above to watch the GreenFarm IoT project presentation
 
+---
 
+## 📌 About the Project
+
+**GreenFarm IoT** is an innovative green technology solution designed to improve
+agricultural productivity in Burundi through intelligent irrigation automation.
+
+The system uses **solar-powered IoT sensors** to monitor soil moisture, temperature,
+and light intensity in real time. The collected data is automatically analyzed by a
+microcontroller that activates or deactivates irrigation based on the actual needs of
+the crops. Farmers can remotely monitor their fields through a **smartphone-accessible
+digital dashboard**.
+
+This project promotes the use of green technologies, water conservation, increased
+agricultural yields, and the creation of self-employment opportunities for young people
+in the agritech sector.
+
+---
 
 ## 🎯 Vision & Mission
 
-**Vision :** Faire du Burundi un modèle africain d'agriculture intelligente, durable et créatrice d'emplois pour les jeunes.
+**Vision:** To make Burundi an African model of smart, sustainable agriculture that
+creates jobs for young people.
 
-**Mission :** Développer des solutions technologiques accessibles qui améliorent la productivité agricole tout en favorisant l'entrepreneuriat des jeunes grâce aux technologies vertes et à l'Internet des Objets.
+**Mission:** To develop accessible technological solutions that improve agricultural
+productivity while promoting youth entrepreneurship through green technologies and the
+Internet of Things.
 
+---
 
-## ⚠️ Problème à résoudre
+## ⚠️ Problem Statement
 
-L'agriculture burundaise reste largement dépendante des méthodes traditionnelles, causant :
+Burundian agriculture remains largely dependent on traditional methods, leading to
+several challenges:
 
-- 💧 Gaspillage important de l'eau d'irrigation
-- 📉 Faible productivité agricole
-- 🚫 Manque d'accès aux technologies modernes
-- 🌡️ Effets négatifs des changements climatiques
-- 📡 Difficultés de suivi des cultures en temps réel
-- 👨‍🎓 Chômage élevé des jeunes diplômés
-- 🔧 Faible intégration des innovations technologiques dans l'agriculture
+- 💧 Significant waste of irrigation water
+- 📉 Low agricultural productivity
+- 🚫 Lack of access to modern technologies
+- 🌡️ Negative effects of climate change
+- 📡 Difficulties in real-time crop monitoring
+- 👨‍🎓 High unemployment among young graduates
+- 🔧 Poor integration of technological innovations in agriculture
 
+---
 
-## 🎯 Objectifs
+## 🎯 Objectives
 
-### Objectif Général
-Développer et déployer un système intelligent d'irrigation solaire basé sur l'IoT afin d'améliorer durablement la productivité agricole et de promouvoir l'auto-emploi des jeunes au Burundi.
+### General Objective
+To develop and deploy a smart solar irrigation system based on the Internet of Things,
+in order to sustainably improve agricultural productivity and promote youth
+self-employment in Burundi.
 
-### Objectifs Spécifiques
-- ✅ Automatiser l'irrigation agricole grâce aux technologies IoT
-- ✅ Réduire la consommation d'eau utilisée dans l'agriculture
-- ✅ Augmenter les rendements agricoles
-- ✅ Faciliter le suivi des cultures via smartphone
-- ✅ Former des jeunes aux technologies agricoles intelligentes
-- ✅ Créer des emplois dans l'installation, la maintenance et la commercialisation des systèmes IoT
+### Specific Objectives
+- ✅ Automate agricultural irrigation using IoT technologies
+- ✅ Reduce water consumption in agriculture
+- ✅ Increase agricultural yields
+- ✅ Enable remote crop monitoring via smartphone
+- ✅ Train young people in smart agricultural technologies
+- ✅ Create jobs in the installation, maintenance, and commercialization of IoT systems
 
+---
 
+## 🛠️ Technical Stack
 
-## 🛠️ Stack Technique
-
-| Composant | Détail |
+| Component | Details |
 |---|---|
-| Microcontrôleur | ESP32 |
-| Capteurs | Humidité du sol, Température, Luminosité |
-| Énergie | Panneaux solaires + Batteries |
-| Actionneurs | Relais intelligents + Pompes d'irrigation |
-| Plateforme | Tableau de bord numérique (smartphone) |
-| Cloud | Plateforme de monitoring à distance |
+| Microcontroller | ESP32 |
+| Sensors | Soil Moisture, Temperature, Light Intensity |
+| Energy Source | Solar Panels + Batteries |
+| Actuators | Smart Relays + Irrigation Pumps |
+| User Interface | Digital Dashboard (Smartphone App) |
+| Backend | Remote Monitoring Cloud Platform |
 
+---
 
-## 🗺️ Activités Prévues
+## 🗺️ Planned Activities
 
-1. 🔍 Étude de faisabilité et conception du système
-2. 🛒 Achat des équipements et composants électroniques
-3. 🔧 Développement du prototype GreenFarm IoT
-4. 💻 Programmation du système embarqué
-5. 📊 Développement du tableau de bord numérique
-6. 🌾 Installation pilote sur des champs agricoles
-7. 🧪 Test et optimisation du système
-8. 👨‍🏫 Formation des jeunes techniciens et agriculteurs
-9. 📢 Sensibilisation et promotion du projet
-10. 🚀 Déploiement commercial du système
+1. 🔍 Feasibility study and system design
+2. 🛒 Purchase of equipment and electronic components
+3. 🔧 Development of the GreenFarm IoT prototype
+4. 💻 Embedded system programming
+5. 📊 Development of the digital dashboard
+6. 🌾 Pilot installation on agricultural fields
+7. 🧪 System testing and optimization
+8. 👨‍🏫 Training of young technicians and farmers
+9. 📢 Awareness and project promotion
+10. 🚀 Commercial deployment of the system
 
+---
 
-## 📈 Résultats Attendus
+## 📈 Expected Results
 
-| Indicateur | Cible |
+| Indicator | Target |
 |---|---|
-| Réduction consommation d'eau | **-40%** |
-| Augmentation productivité agricole | **+30%** |
-| Emplois directs créés pour les jeunes | **20 emplois** |
-| Jeunes agripreneurs formés | **100+** |
+| Reduction in water consumption | **-40%** |
+| Increase in agricultural productivity | **+30%** |
+| Direct jobs created for young people | **20 jobs** |
+| Young agripreneurs trained | **100+** |
 
+Other expected outcomes:
+- ✔️ A fully functional smart irrigation system deployed
+- ✔️ Improved income for beneficiary farmers
+- ✔️ Promotion of renewable energy use in agriculture
+- ✔️ Strengthened food security in Burundi
 
-## 👥 Bénéficiaires Cibles
+---
 
-- Jeunes entrepreneurs
-- Coopératives agricoles
-- Agriculteurs individuels
-- Associations de jeunes
-- Institutions agricoles
+## 👥 Target Beneficiaries
 
-## 🎥 Présentation Vidéo du Projet
+- 🧑‍💼 Young entrepreneurs
+- 🌾 Agricultural cooperatives
+- 👨‍🌾 Individual farmers
+- 🤝 Youth associations
+- 🏛️ Agricultural institutions
 
-[![GreenFarm IoT - Présentation](https://img.youtube.com/vi/OpTdYJHNnQs/maxresdefault.jpg)](https://youtu.be/OpTdYJHNnQs?si=3t98wgYyqurPFotI)
+---
 
-> 👆 Cliquez sur l'image pour regarder la vidéo de présentation du projet GreenFarm IoT
+## 💰 Projected Budget
 
-## 💰 Budget Prévisionnel
+| Item | Total (Fbu) |
+|---|---|
+| Laptops (×2) | 4,000,000 |
+| Office furniture | 1,000,000 |
+| ESP32 microcontrollers (×2) | 400,000 |
+| Soil moisture sensors (×3) | 135,000 |
+| Temperature sensors (×3) | 135,000 |
+| Light sensors (×1) | 30,000 |
+| Smart relays (×5) | 225,000 |
+| Irrigation pumps (×5) | 7,500,000 |
+| Solar panels | 75,000 |
+| Solar batteries | 60,000 |
+| Electrical cables & accessories | 60,000 |
+| Cloud platform development | 45,000 |
+| App development | 200,000 |
+| Beneficiary training (4 sessions) | 1,000,000 |
+| Awareness & communication | 45,000 |
+| Transport & installation | 45,000 |
+| Working capital | 2,000,000 |
+| **TOTAL** | **16,315,000 Fbu** |
 
-**Total Général : 16.315.000 Fbu**
+---
 
-
-## 👨‍💼 Promoteur du Projet
+## 👨‍💼 Project Promoter
 
 **Ir NGABONZIZA Pontien**
-Université du Burundi — Campus Kamenge
+University of Burundi — Kamenge Campus
 📞 +257 65219602
 📧 ngabonzizapontien@gmail.com
 
+---
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est développé dans le cadre académique et entrepreneurial au Burundi.
+This project is developed within an academic and entrepreneurial framework in Burundi.
+All rights reserved © 2025 — GreenFarm IoT
