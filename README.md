@@ -6,7 +6,6 @@
 ![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20IoT%20Sensors-blue)
 ![Energy](https://img.shields.io/badge/Energy-Solaire-yellow)
 
----
 
 ## 📌 À propos du projet
 
@@ -19,7 +18,7 @@ automatiquement par un microcontrôleur qui active ou désactive l'irrigation se
 besoins réels des cultures. Les agriculteurs peuvent suivre leurs exploitations à distance
 via une **plateforme numérique accessible sur smartphone**.
 
----
+
 
 ## 🎯 Vision & Mission
 
@@ -27,7 +26,6 @@ via une **plateforme numérique accessible sur smartphone**.
 
 **Mission :** Développer des solutions technologiques accessibles qui améliorent la productivité agricole tout en favorisant l'entrepreneuriat des jeunes grâce aux technologies vertes et à l'Internet des Objets.
 
----
 
 ## ⚠️ Problème à résoudre
 
@@ -41,7 +39,6 @@ L'agriculture burundaise reste largement dépendante des méthodes traditionnell
 - 👨‍🎓 Chômage élevé des jeunes diplômés
 - 🔧 Faible intégration des innovations technologiques dans l'agriculture
 
----
 
 ## 🎯 Objectifs
 
@@ -56,7 +53,7 @@ Développer et déployer un système intelligent d'irrigation solaire basé sur 
 - ✅ Former des jeunes aux technologies agricoles intelligentes
 - ✅ Créer des emplois dans l'installation, la maintenance et la commercialisation des systèmes IoT
 
----
+
 
 ## 🛠️ Stack Technique
 
@@ -69,7 +66,6 @@ Développer et déployer un système intelligent d'irrigation solaire basé sur 
 | Plateforme | Tableau de bord numérique (smartphone) |
 | Cloud | Plateforme de monitoring à distance |
 
----
 
 ## 🗺️ Activités Prévues
 
@@ -84,7 +80,6 @@ Développer et déployer un système intelligent d'irrigation solaire basé sur 
 9. 📢 Sensibilisation et promotion du projet
 10. 🚀 Déploiement commercial du système
 
----
 
 ## 📈 Résultats Attendus
 
@@ -95,7 +90,6 @@ Développer et déployer un système intelligent d'irrigation solaire basé sur 
 | Emplois directs créés pour les jeunes | **20 emplois** |
 | Jeunes agripreneurs formés | **100+** |
 
----
 
 ## 👥 Bénéficiaires Cibles
 
@@ -105,13 +99,16 @@ Développer et déployer un système intelligent d'irrigation solaire basé sur 
 - Associations de jeunes
 - Institutions agricoles
 
----
+## 🎥 Présentation Vidéo du Projet
+
+[![GreenFarm IoT - Présentation](https://img.youtube.com/vi/OpTdYJHNnQs/maxresdefault.jpg)](https://youtu.be/OpTdYJHNnQs?si=3t98wgYyqurPFotI)
+
+> 👆 Cliquez sur l'image pour regarder la vidéo de présentation du projet GreenFarm IoT
 
 ## 💰 Budget Prévisionnel
 
 **Total Général : 16.315.000 Fbu**
 
----
 
 ## 👨‍💼 Promoteur du Projet
 
@@ -120,7 +117,6 @@ Université du Burundi — Campus Kamenge
 📞 +257 65219602
 📧 ngabonzizapontien@gmail.com
 
----
 
 ## 📄 Licence
 
