@@ -12,10 +12,11 @@
 [![GreenFarm IoT - Presentation](https://img.youtube.com/vi/OpTdYJHNnQs/maxresdefault.jpg)](https://youtu.be/OpTdYJHNnQs?si=3t98wgYyqurPFotI)
 > 👆 Click the image above to watch the GreenFarm IoT project presentation
 
-[![GreenFarm IoT - 2nd Part](https://youtu.be/H6VMNgIDDfE?si=TkdZb9pWFOYNbofE)
+## 🎥 Project Video Presentation — Part 2
 
-> 👆 Click the image above to watch the GreenFarm IoT project presentation
+[![GreenFarm IoT - Presentation Part 2](https://img.youtube.com/vi/H6VMNgIDDfE/maxresdefault.jpg)](https://youtu.be/H6VMNgIDDfE?si=TkdZb9pWFOYNbofE)
 
+> 👆 Click the image above to watch Part 2 of the GreenFarm IoT project presentation
 
 ## 📌 About the Project
 
