@@ -6,15 +6,16 @@
 ![Platform](https://img.shields.io/badge/Hardware-ESP32%20%7C%20IoT%20Sensors-blue)
 ![Energy](https://img.shields.io/badge/Energy-Solar-yellow)
 
----
 
 ## 🎥 Project Video Presentation
 
 [![GreenFarm IoT - Presentation](https://img.youtube.com/vi/OpTdYJHNnQs/maxresdefault.jpg)](https://youtu.be/OpTdYJHNnQs?si=3t98wgYyqurPFotI)
+> 👆 Click the image above to watch the GreenFarm IoT project presentation
+
+[![GreenFarm IoT - 2nd Part](https://youtu.be/H6VMNgIDDfE?si=TkdZb9pWFOYNbofE)
 
 > 👆 Click the image above to watch the GreenFarm IoT project presentation
 
----
 
 ## 📌 About the Project
 
@@ -31,7 +32,7 @@ This project promotes the use of green technologies, water conservation, increas
 agricultural yields, and the creation of self-employment opportunities for young people
 in the agritech sector.
 
----
+
 
 ## 🎯 Vision & Mission
 
@@ -42,7 +43,6 @@ creates jobs for young people.
 productivity while promoting youth entrepreneurship through green technologies and the
 Internet of Things.
 
----
 
 ## ⚠️ Problem Statement
 
@@ -57,7 +57,6 @@ several challenges:
 - 👨‍🎓 High unemployment among young graduates
 - 🔧 Poor integration of technological innovations in agriculture
 
----
 
 ## 🎯 Objectives
 
@@ -74,7 +73,6 @@ self-employment in Burundi.
 - ✅ Train young people in smart agricultural technologies
 - ✅ Create jobs in the installation, maintenance, and commercialization of IoT systems
 
----
 
 ## 🛠️ Technical Stack
 
@@ -87,7 +85,6 @@ self-employment in Burundi.
 | User Interface | Digital Dashboard (Smartphone App) |
 | Backend | Remote Monitoring Cloud Platform |
 
----
 
 ## 🗺️ Planned Activities
 
@@ -102,7 +99,6 @@ self-employment in Burundi.
 9. 📢 Awareness and project promotion
 10. 🚀 Commercial deployment of the system
 
----
 
 ## 📈 Expected Results
 
@@ -119,7 +115,6 @@ Other expected outcomes:
 - ✔️ Promotion of renewable energy use in agriculture
 - ✔️ Strengthened food security in Burundi
 
----
 
 ## 👥 Target Beneficiaries
 
@@ -129,7 +124,6 @@ Other expected outcomes:
 - 🤝 Youth associations
 - 🏛️ Agricultural institutions
 
----
 
 ## 💰 Projected Budget
 
@@ -154,7 +148,6 @@ Other expected outcomes:
 | Working capital | 2,000,000 |
 | **TOTAL** | **16,315,000 Fbu** |
 
----
 
 ## 👨‍💼 Project Promoter
 
@@ -163,9 +156,8 @@ University of Burundi — Kamenge Campus
 📞 +257 65219602
 📧 ngabonzizapontien@gmail.com
 
----
 
 ## 📄 License
 
 This project is developed within an academic and entrepreneurial framework in Burundi.
-All rights reserved © 2025 — GreenFarm IoT
+All rights reserved © 2026 — GreenFarm IoT
